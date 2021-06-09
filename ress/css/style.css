@@ -5,11 +5,11 @@ body {
 }
 
 a {
-  color: #1acc8d;
+  color: #fff;
 }
 
 a:hover {
-  color: #34e5a6;
+  color: #fff;
   text-decoration: none;
 }
 
@@ -34,7 +34,7 @@ h1, h2, h3, h4, h5, h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #1acc8d;
+  border: 6px solid #fff;
   border-top-color: #d2f9eb;
   border-radius: 50%;
   width: 60px;
@@ -78,13 +78,13 @@ h1, h2, h3, h4, h5, h6 {
   width: 40px;
   height: 40px;
   border-radius: 50px;
-  background: #1acc8d;
+  background: #fff;
   color: #fff;
   transition: all 0.4s;
 }
 
 .back-to-top i:hover {
-  background: #2be4a2;
+  background: #fff;
   color: #fff;
 }
 
@@ -177,7 +177,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 2px;
   bottom: 3px;
   left: 25px;
-  background-color: #1acc8d;
+  background-color: #fff;
   visibility: hidden;
   width: 0px;
   transition: all 0.3s ease-in-out 0s;
@@ -228,7 +228,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu .drop-down ul a:hover, .nav-menu .drop-down ul .active > a, .nav-menu .drop-down ul li:hover > a {
-  color: #1acc8d;
+  color: #fff;
 }
 
 .nav-menu .drop-down > a:after {
@@ -323,7 +323,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
-  color: #1acc8d;
+  color: #fff;
   text-decoration: none;
 }
 
@@ -408,7 +408,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero h1 span {
   color: #fff;
-  border-bottom: 4px solid #1acc8d;
+  border-bottom: 4px solid #fff;
 }
 
 #hero h2 {
@@ -426,8 +426,8 @@ h1, h2, h3, h4, h5, h6 {
   padding: 10px 30px;
   border-radius: 50px;
   transition: 0.5s;
-  color: #fff;
-  background: #1acc8d;
+  color: #14a0db;
+  background: #fff;
 }
 
 #hero .btn-get-started:hover {
