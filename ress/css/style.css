@@ -6,6 +6,14 @@ body{
     background-color: #14a0dd;
 }
 
+#navbarScroll .nav-a{
+    color: #14a0dd !important;
+}
+
+#navbarScroll .navbar-nav a{
+    color: #fff;
+}
+/* ======= second section ====== */
 .header-text{
     display: flex;
     color: #fff;
@@ -17,18 +25,12 @@ body{
     padding-top: 180px;
 }
 
-
-#navbarScroll .nav-a{
-    color: #064420;
-}
-
 .body-image{
     background: linear-gradient(rgba(20, 160, 221, 0.4), rgba(20, 160, 221, 0)), url("../img/phone.png");
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
     height: 100vh;
-    /* opacity: 0.5; */
 }
 
 .first-p{
@@ -41,7 +43,6 @@ body{
 .second-p{
     font-size: 15px;
 }
-
 .padding{
     padding-left: 100px;
     padding-right: 100px;
@@ -49,12 +50,11 @@ body{
 
 .btn-style{
     background-color: #fff;
-    color: #1eae98;
+    color: #14a0dd;
 }
 
 section>#design a{
     text-decoration: none;
-   
 }
 
 #design a:hover{
