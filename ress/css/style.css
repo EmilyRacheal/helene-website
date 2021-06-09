@@ -742,7 +742,7 @@ section {
 }
 
 .about .icon-box .title a:hover {
-  color: #1acc8d;
+  color: #14a0db;
 }
 
 .about .icon-box .description {
@@ -861,6 +861,13 @@ section {
   padding: 20px;
   background: #f5f5ff;
   transition: ease-in-out 0.3s;
+}
+
+.box{
+  border-radius: 10px;
+  background-color: #010483;
+  color: #fff;
+
 }
 
 .features .icon-box i {
