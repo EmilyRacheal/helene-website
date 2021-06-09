@@ -695,7 +695,7 @@ section {
 .about .icon-boxes h3 {
   font-size: 28px;
   font-weight: 700;
-  color: #010483;
+  color: #14a0db;
   margin-bottom: 15px;
 }
 
@@ -710,19 +710,19 @@ section {
   justify-content: center;
   width: 64px;
   height: 64px;
-  border: 2px solid #7ceec6;
+  border: 2px solid #14a0db;
   border-radius: 50px;
   transition: 0.5s;
 }
 
 .about .icon-box .icon i {
-  color: #1acc8d;
+  color: #14a0db;
   font-size: 32px;
 }
 
 .about .icon-box:hover .icon {
-  background: #1acc8d;
-  border-color: #1acc8d;
+  background: #14a0db;
+  border-color: #14a0db;
 }
 
 .about .icon-box:hover .icon i {
@@ -760,7 +760,7 @@ section {
 .about .play-btn {
   width: 94px;
   height: 94px;
-  background: radial-gradient(#3f43fd 50%, rgba(63, 67, 253, 0.4) 52%);
+  background: radial-gradient(#14a0db 50%, rgba(41, 188, 251, 0.4) 52%);
   border-radius: 50%;
   display: block;
   position: absolute;
@@ -808,7 +808,7 @@ section {
 }
 
 .about .play-btn:hover::after {
-  border-left: 15px solid #3f43fd;
+  border-left: 15px solid #14a0db;
   transform: scale(20);
 }
 
