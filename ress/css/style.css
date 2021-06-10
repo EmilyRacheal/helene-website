@@ -943,7 +943,7 @@ section {
 /*--------------------------------------------------------------
 # Details
 --------------------------------------------------------------*/
-.details .content + .content {
+/* .details .content + .content {
   margin-top: 100px;
 }
 
@@ -970,12 +970,12 @@ section {
 
 .details .content p:last-child {
   margin-bottom: 0;
-}
+} */
 
 /*--------------------------------------------------------------
 # Gallery
 --------------------------------------------------------------*/
-.gallery .gallery-item {
+/* .gallery .gallery-item {
   overflow: hidden;
   border-right: 3px solid #fff;
   border-bottom: 3px solid #fff;
@@ -987,12 +987,12 @@ section {
 
 .gallery .gallery-item:hover img {
   transform: scale(1.1);
-}
+} */
 
 /*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/
-.testimonials {
+/* .testimonials {
   padding: 80px 0;
   background: url("../img/cta-bg.jpg") no-repeat;
   background-position: center center;
@@ -1091,12 +1091,12 @@ section {
   .testimonials .testimonial-item p {
     width: 80%;
   }
-}
+} */
 
 /*--------------------------------------------------------------
 # Team
 --------------------------------------------------------------*/
-.team {
+/* .team {
   background: #fff;
 }
 
@@ -1173,7 +1173,7 @@ section {
 .team .member .social i {
   font-size: 16px;
   margin: 0 2px;
-}
+} */
 
 /*--------------------------------------------------------------
 # Pricing
@@ -1295,7 +1295,7 @@ section {
 /*--------------------------------------------------------------
 # F.A.Q
 --------------------------------------------------------------*/
-.faq .faq-list {
+/* .faq .faq-list {
   padding: 0;
 }
 
@@ -1370,12 +1370,12 @@ section {
   .faq .faq-list {
     padding: 0;
   }
-}
+} */
 
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
-.contact .info {
+/* .contact .info {
   width: 100%;
   background: #fff;
 }
@@ -1520,7 +1520,7 @@ section {
   100% {
     transform: rotate(360deg);
   }
-}
+} */
 
 /*--------------------------------------------------------------
 # Footer
@@ -1540,7 +1540,7 @@ section {
   margin-bottom: 15px;
   background: #010246;
   color: #fff;
-  border-top: 4px solid #1acc8d;
+  border-top: 4px solid #fff;
   text-align: center;
   padding: 30px 20px;
 }
@@ -1575,7 +1575,7 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #1acc8d;
+  background: #14a0db;
   color: #fff;
   text-decoration: none;
 }
@@ -1600,7 +1600,7 @@ section {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #61ebba;
+  color: #14a0db;
   font-size: 18px;
   line-height: 1;
 }
@@ -1623,7 +1623,7 @@ section {
 }
 
 #footer .footer-top .footer-links ul a:hover {
-  color: #4be8b0;
+  color: #14a0db;
 }
 
 #footer .footer-top .footer-newsletter form {
@@ -1649,14 +1649,14 @@ section {
   background: none;
   font-size: 16px;
   padding: 0 20px;
-  background: #1acc8d;
+  background: #14a0db;
   color: #fff;
   transition: 0.3s;
   border-radius: 50px;
 }
 
 #footer .footer-top .footer-newsletter form input[type="submit"]:hover {
-  background: #149f6e;
+  background: #14a0db;
 }
 
 #footer .copyright {
