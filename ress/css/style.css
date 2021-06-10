@@ -1178,7 +1178,14 @@ section {
 /*--------------------------------------------------------------
 # Pricing
 --------------------------------------------------------------*/
-.pricing .box {
+#pricing{
+  background: url("../img/details-3.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: top;
+}
+/* .pricing .box {
   padding: 20px;
   background: #fff;
   text-align: center;
@@ -1186,9 +1193,9 @@ section {
   border-radius: 5px;
   position: relative;
   overflow: hidden;
-}
+} */
 
-.pricing h3 {
+/* .pricing h3 {
   font-weight: 400;
   margin: -20px -20px 20px -20px;
   padding: 20px 15px;
@@ -1196,60 +1203,60 @@ section {
   font-weight: 600;
   color: #777777;
   background: #f8f8f8;
-}
+} */
 
-.pricing h4 {
+/* .pricing h4 {
   font-size: 36px;
   color: #1acc8d;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
   margin-bottom: 20px;
-}
+} */
 
-.pricing h4 sup {
+/* .pricing h4 sup {
   font-size: 20px;
   top: -15px;
   left: -3px;
-}
+} */
 
-.pricing h4 span {
+/* .pricing h4 span {
   color: #bababa;
   font-size: 16px;
   font-weight: 300;
-}
+} */
 
-.pricing ul {
+/* .pricing ul {
   padding: 0;
   list-style: none;
   color: #444444;
   text-align: center;
   line-height: 20px;
   font-size: 14px;
-}
+} */
 
-.pricing ul li {
+/* .pricing ul li {
   padding-bottom: 16px;
-}
+} */
 
-.pricing ul i {
+/* .pricing ul i {
   color: #1acc8d;
   font-size: 18px;
   padding-right: 4px;
-}
+} */
 
-.pricing ul .na {
+/* .pricing ul .na {
   color: #ccc;
   text-decoration: line-through;
-}
+} */
 
-.pricing .btn-wrap {
+/* .pricing .btn-wrap {
   margin: 20px -20px -20px -20px;
   padding: 20px 15px;
   background: #f8f8f8;
   text-align: center;
-}
+} */
 
-.pricing .btn-buy {
+/* .pricing .btn-buy {
   background: #1acc8d;
   display: inline-block;
   padding: 8px 35px 10px 35px;
@@ -1261,18 +1268,18 @@ section {
   font-family: "Montserrat", sans-serif;
   font-weight: 600;
   transition: 0.3s;
-}
+} */
 
-.pricing .btn-buy:hover {
+/* .pricing .btn-buy:hover {
   background: #149f6e;
-}
+} */
 
-.pricing .featured h3 {
+/* .pricing .featured h3 {
   color: #fff;
   background: #1acc8d;
-}
+} */
 
-.pricing .advanced {
+/* .pricing .advanced {
   width: 200px;
   position: absolute;
   top: 18px;
@@ -1283,7 +1290,7 @@ section {
   padding: 1px 0 3px 0;
   background: #1acc8d;
   color: #fff;
-}
+} */
 
 /*--------------------------------------------------------------
 # F.A.Q
