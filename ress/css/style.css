@@ -462,11 +462,13 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 28px;
     line-height: 32px;
     margin-bottom: 10px;
+    text-align: center;
   }
   #hero h2 {
     font-size: 18px;
     line-height: 24px;
     margin-bottom: 30px;
+    text-align: center;
   }
 }
 
