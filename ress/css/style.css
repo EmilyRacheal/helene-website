@@ -78,7 +78,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 40px;
   height: 40px;
   border-radius: 50px;
-  background: #fff;
+  background: #14a0db;
   color: #fff;
   transition: all 0.4s;
 }
@@ -411,7 +411,7 @@ h1, h2, h3, h4, h5, h6 {
   border-bottom: 4px solid #fff;
 }
 
-#hero h2 {
+#hero h6 {
   color: rgba(255, 255, 255, 0.8);
   margin-bottom: 40px;
   font-size: 24px;
@@ -465,7 +465,7 @@ h1, h2, h3, h4, h5, h6 {
     margin-bottom: 10px;
     text-align: center;
   }
-  #hero h2 {
+  #hero h6 {
     font-size: 18px;
     line-height: 24px;
     margin-bottom: 30px;
