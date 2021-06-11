@@ -299,7 +299,7 @@ h1, h2, h3, h4, h5, h6 {
   left: 15px;
   z-index: 9999;
   overflow-y: auto;
-  background: #fff;
+  background: #ccc;
   transition: ease-in-out 0.2s;
   opacity: 0;
   visibility: hidden;
@@ -321,7 +321,9 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 500;
   outline: none;
 }
-
+.mobile-nav .btn-get-started {
+  margin: 10px;
+}
 .mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
   color: #fff;
   text-decoration: none;
@@ -417,7 +419,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 24px;
 }
 
-#hero .btn-get-started {
+ .btn-get-started {
   font-family: "Montserrat", sans-serif;
   font-weight: 500;
   font-size: 16px;
@@ -426,11 +428,11 @@ h1, h2, h3, h4, h5, h6 {
   padding: 10px 30px;
   border-radius: 50px;
   transition: 0.5s;
-  color: #14a0db;
+  color: #14a0db !important;
   background: #fff;
 }
 
-#hero .btn-get-started:hover {
+ .btn-get-started:hover {
   background: grey;
   color: #fff;
 }
@@ -764,7 +766,7 @@ section#pricing .section-title h2::after {
 }
 
 .about .video-box {
-  background: url("../img/about.png") center center no-repeat;
+  background: url("../img/hel3-removebg-preview.png") center center no-repeat;
   background-size: contain;
   min-height: 300px;
 }
